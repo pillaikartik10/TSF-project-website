@@ -39,6 +39,6 @@ Basic Banking System
 ## Links  
   
 1. Interested in this internship? Find out more about the GRIP intership program conducted by The Sparks Foundation, [here](https://docs.google.com/presentation/d/1ewoYOi5YK0UifAaUnmUYsUaucDKHRpKPhNsS7vIgx5M/edit#slide=id.g35f391192_00).  
-2. Find them on LinkedIn [here](https://www.linkedin.com/company/the-sparks-foundation/).  
+2. Find The Sparks Foundation on LinkedIn [here](https://www.linkedin.com/company/the-sparks-foundation/).  
 3. Apply for the intership on Internshala from [here](https://internshala.com/internships/internship-at-GRIP%20At%20The%20Sparks%20Foundation).  
 4. My personal [LinkedIn profile](https://www.linkedin.com/in/kartik-pillai/).  
